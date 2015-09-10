@@ -1,0 +1,8 @@
+body{color:cornflowerblue;font-family: "microsoft yahei"}
+ul,li{list-style: none;margin:0;padding:0}
+a{text-decoration: none;color:mediumseagreen}
+h1,ul{width: 900px;margin:0 auto}
+li{border-bottom: 1px solid #eee;height:40px;
+    line-height: 40px;margin-top:10px;}
+li.folder{font-weight: bold}
+a.del{float:right;color:blue}
